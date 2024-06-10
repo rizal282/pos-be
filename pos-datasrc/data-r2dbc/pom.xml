@@ -5,17 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.rizal.posapp</groupId>
-        <artifactId>pos-be</artifactId>
+        <artifactId>pos-datasrc</artifactId>
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>pos-app</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>app-transaction</module>
-        <module>app-gateway</module>
-        <module>app-security</module>
-    </modules>
+    <artifactId>data-r2dbc</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

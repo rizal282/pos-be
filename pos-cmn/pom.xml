@@ -9,12 +9,11 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>pos-app</artifactId>
+<!--    <groupId>com.rizal.posapp.cmn</groupId>-->
+    <artifactId>pos-cmn</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>app-transaction</module>
-        <module>app-gateway</module>
-        <module>app-security</module>
+        <module>cmn-util</module>
     </modules>
 
     <properties>

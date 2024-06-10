@@ -2,13 +2,28 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/pos-app/app-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-app/app-security/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pos-app/app-transaction/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pos-app/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pos-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-cmn/cmn-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-cmn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-cmn/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-datasrc/data-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-datasrc/data-h2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-datasrc/data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-datasrc/data-r2dbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-datasrc/data-repo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-datasrc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-datasrc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pos-manage/manage-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pos-manage/manage-discovery/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pos-manage/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pos-manage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-module/module-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-module/module-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pos-module/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
